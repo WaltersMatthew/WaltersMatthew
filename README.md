@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaltersMatthew
+- 👋 Hi, I’m Matt Walters
 - 👀 I’m interested in React, SQL and non-SQL databases, Express, and all things JavaScript
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on full-stack web apps and joint problem solving
