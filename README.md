@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt Walters
 - 👀 I’m interested in React, SQL and non-SQL databases, Express, and all things JavaScript
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently honing my skills in Next.js and frontend development
 - 💞️ I’m looking to collaborate on full-stack web apps and joint problem solving
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matthew-walters13/) or email waltersmatthew88@gmail.com
 
