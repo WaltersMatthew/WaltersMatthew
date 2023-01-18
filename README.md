@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt Walters, a fullstack developer with a passion for frontend design
-- 👀 I’m interested in React, SQL and non-SQL databases, Express, and all things JavaScript
+- 👀 I’m interested in React, React Native, and all things JavaScript
 - 🌱 I’m currently honing my skills in Next.js and frontend development
 - 💞️ I’m looking to collaborate on full-stack web apps and joint problem solving
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matthew-walters13/) or ✉️ waltersmatthew88@gmail.com
