@@ -6,7 +6,7 @@
 - 🎉 Fun Facts: 
     * On Sundays I drum with the Thunderbolts drumline at SoFi stadium for the L.A. Chargers ⚡️
     * I appear on a Christmas episode of The Office playing drums as part of the 12 drummers drumming 🥁
-    * I have two dogs 🌭,🐕 and two cats 🐈,🐈‍⬛ thanks to my beautiful wife and her love for animals
+    * I have two dogs [🌭,🐕] and two cats [🐈,🐈‍⬛] thanks to my beautiful wife and her love for animals
 
 <!---
 WaltersMatthew/WaltersMatthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
