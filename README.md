@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Matt Walters, a fullstack developer with a passion for frontend design
-- 👀 I’m interested in React, React Native, and all things JavaScript
-- 🌱 I’m currently honing my skills in Next.js and frontend development
-- 💞️ I’m looking to collaborate on full-stack web apps and joint problem solving
+- 👋 Hi, I’m Matt Walters, a Salesforce admin and developer with a passion for frontend design
+- 👀 I’m interested in React, Salesforce LWC, and all things JavaScript
+- 🌱 I’m currently honing my skills in Salesforce and frontend development
+- 💞️ I’m looking to collaborate with mission-driven organizations to solve challenges and help them achieve their goals more effectively.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matthew-walters13/) or ✉️ waltersmatthew88@gmail.com
 - 🎉 Fun Facts: 
     * On Sundays I drum with the Thunderbolts drumline at SoFi stadium for the L.A. Chargers ⚡️
